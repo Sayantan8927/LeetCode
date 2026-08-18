@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sayantan8927/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+## Math
+|  |
+| ------- |
+| [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Sayantan8927/LeetCode/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 <!---LeetCode Topics End-->
