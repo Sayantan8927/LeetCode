@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Sayantan8927/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan8927/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sayantan8927/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sayantan8927/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Sayantan8927/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayantan8927/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
